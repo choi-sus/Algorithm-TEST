@@ -1,4 +1,4 @@
-# [Lv.0] 피자 나눠 먹기 (1) - 120814
+# [Lv.0] 피자 나눠 먹기 (1)
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120814)
 
